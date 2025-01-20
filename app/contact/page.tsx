@@ -22,13 +22,13 @@ export default function PricingPage() {
           <span className="text-default-500">Zip Code: </span> 90029
         </p>
         <p>
-          <a href="mailto:pash.hayk@gmail.com" className=" ">
-            <span className="text-default-500">Email: </span>{" "}
+          <a href="mailto:pash.hayk@gmail.com">
+            <span className="text-default-500">Email: </span>
             pash.hayk@gmail.com
           </a>
         </p>
         <p>
-          <a href="tel:+13236089665" className=" ">
+          <a href="tel:+13236089665">
             <span className="text-default-500">Phone: </span> (323) 608-9665
           </a>
         </p>
