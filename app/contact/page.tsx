@@ -22,9 +22,9 @@ export default function PricingPage() {
           <span className="text-default-500">Zip Code: </span> 90029
         </p>
         <p>
-          <a href="mailto:pash.hayk@gmail.com">
+          <a href="mailto:	michaelbennett.cs@gmail.com">
             <span className="text-default-500">Email: </span>
-            pash.hayk@gmail.com
+            michaelbennett.cs@gmail.com
           </a>
         </p>
         <p>
