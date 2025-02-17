@@ -9,27 +9,30 @@ export default function PricingPage() {
       <Divider />
       <div className="mt-4 space-y-2">
         <p>
-          <span className="text-default-500">Country: </span>
-          United States
+          Country:
+          <span className="text-default-500"> United States</span>
         </p>
         <p>
-          <span className="text-default-500">State: </span> California
+          State: <span className="text-default-500"> California</span>
         </p>
         <p>
-          <span className="text-default-500">City: </span> Los Angeles
+          City: <span className="text-default-500"> Los Angeles</span>
         </p>
         <p>
-          <span className="text-default-500">Zip Code: </span> 90029
+          Zip Code: <span className="text-default-500">90027</span>
         </p>
         <p>
           <a href="mailto:	michaelbennett.cs@gmail.com">
-            <span className="text-default-500">Email: </span>
-            michaelbennett.cs@gmail.com
+            Email:
+            <span className="text-default-500">
+              {" "}
+              michaelbennett.cs@gmail.com
+            </span>
           </a>
         </p>
         <p>
           <a href="tel:+13236089665">
-            <span className="text-default-500">Phone: </span> (323) 608-9665
+            Phone: <span className="text-default-500"> (323) 608-9665</span>
           </a>
         </p>
       </div>
